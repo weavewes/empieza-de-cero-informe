@@ -1,8 +1,8 @@
 # Registro de dedicación — Empieza de Cero · 1-sep → 13-oct-2026
 
-**Total del periodo: 79,0 h** — desglose por línea de trabajo y entregable.
+**Total del periodo: 66,3 h** — desglose por línea de trabajo y entregable.
 
-Base de medición: 43,58 h con marca de tiempo real (bloques de agenda + actividad documentada: ficheros, tareas, actuaciones) y el resto dimensionado por entregable con la evidencia que figura en cada fila.
+Cómo se compone: **43,6 h con registro horario** (sesiones planificadas en agenda + actividad con marca de tiempo) **+ 5 h de reuniones de trabajo** (duración real) **+ 17,7 h de dedicación no registrada**, dimensionada por entregable y contabilizada al 50 % por criterio prudente. La evidencia de cada partida figura en la última columna.
 
 | Línea | Entregable / actuación | Horas | Evidencia |
 |---|---|---:|---|
@@ -34,5 +34,8 @@ Base de medición: 43,58 h con marca de tiempo real (bloques de agenda + activid
 | **Incidencias y soporte (octubre)** | *subtotal* | **28,0** | |
 | Informes y seguimiento | Informe de trabajo y horas del periodo + dashboard de seguimiento | 4,0 | documentos entregados |
 | **Informes y seguimiento** | *subtotal* | **4,0** | |
+| Reuniones y consultoría | Reunión de trabajo con Hernán — implementación de agentes en el despacho | 2,0 | sesión de 2 h (declarada por el equipo) |
+| Reuniones y consultoría | Reunión de trabajo con Julián y Hernán — consultoría de implementación de agentes | 3,0 | sesión de 3 h (declarada por el equipo) |
+| **Reuniones y consultoría** | *subtotal* | **5,0** | |
 
-**Total: 79,0 h.**
+**Total publicado: 66,3 h.**
