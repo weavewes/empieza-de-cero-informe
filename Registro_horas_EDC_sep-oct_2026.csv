@@ -1,0 +1,25 @@
+linea;entregable;horas;base;evidencia
+Captación y seguimiento de leads;Automatización de respuestas en HubSpot (AUTO-2026-001: flujo + alertas 20/60 min + propiedades);4,0;RECONSTRUIDO;flujo en producción, tarea #70 cerrada
+Captación y seguimiento de leads;Diseño del flujo multicanal T+0/T+10/T+60 (WhatsApp, email, redes, formulario);6,0;RECONSTRUIDO;documentado (tarea #74) + diagrama
+Captación y seguimiento de leads;Normalización, identidad y deduplicación de la base de contactos;5,0;RECONSTRUIDO;tarea #84
+Captación y seguimiento de leads;Políticas de tiempo de respuesta (SLA) por canal;3,0;RECONSTRUIDO;tarea #81
+Captación y seguimiento de leads;Horarios de operación del flujo;1,0;RECONSTRUIDO;tarea #72
+Captación y seguimiento de leads;Cumplimiento RGPD/LOPDGDD y baja (opt-out);3,0;RECONSTRUIDO;tarea #82
+Captación y seguimiento de leads;Decisión de alcance: llamadas como escalado, no automatizadas;1,0;RECONSTRUIDO;tarea #71
+Captación y seguimiento de leads;Documentación del flujo de atención de leads;3,0;RECONSTRUIDO;tarea #80 + documento entregado
+Canales y distribución;WhatsApp Business: incidencia con Meta y asociación del número;4,0;RECONSTRUIDO;tarea #269
+Canales y distribución;Validación funcional end-to-end del número;1,5;RECONSTRUIDO;tarea #362
+Canales y distribución;Recuperación de la cuenta de TikTok y acreditación de marca;2,0;RECONSTRUIDO;tarea #304
+Canales y distribución;Integración de LinkedIn en Metricool;1,5;RECONSTRUIDO;tarea #78
+Canales y distribución;Coordinación con la operación de ManyChat (Vanessa);1,0;RECONSTRUIDO;tarea #336
+Contratos y firma digital;Textos y marca del despacho en el entorno de pruebas (Documenso);3,0;RECONSTRUIDO;tarea #264
+Contratos y firma digital;Envío del enlace de firma por WhatsApp;2,5;RECONSTRUIDO;tarea #310
+Contratos y firma digital;Vídeo-tutorial de firma para clientes;3,0;RECONSTRUIDO;tarea #244
+Contratos y firma digital;Automatización del correo con métodos de pago tras la firma;2,5;RECONSTRUIDO;tarea #76
+Incidencias y soporte (octubre);Diagnóstico de entrega de correo: cuenta de envío pausada, plan de desbloqueo y avisos (Hernán/Johana/Fernando);6,0;RECONSTRUIDO;"informe y plan del 1-oct; mensajes enviados"
+Incidencias y soporte (octubre);Migración de la plataforma de correo 5.2.11 → 7.2.1 + MySQL 8.4 (copias, verificación y runbook);8,0;RECONSTRUIDO;"runbook de actualización; datos verificados"
+Incidencias y soporte (octubre);Conexión de la herramienta de gestión a la nueva versión y pruebas;3,0;RECONSTRUIDO;pruebas registradas el 2-oct
+Incidencias y soporte (octubre);Auditoría de los flujos de atención en producción + informe de estado del SLA;5,0;RECONSTRUIDO;informe PDF del 6-oct
+Incidencias y soporte (octubre);Incidencia crítica de firma: diagnóstico, reproducción en laboratorio y verificación del arreglo;6,0;RECONSTRUIDO;análisis y pruebas del 13-oct
+Informes y seguimiento;Informe de trabajo y horas del periodo + dashboard de seguimiento;4,0;RECONSTRUIDO;documentos entregados
+TOTAL;;79,0;;
